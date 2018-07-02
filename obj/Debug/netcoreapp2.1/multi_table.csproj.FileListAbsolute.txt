@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\bin\Debug\netcoreapp2.1\multi_table.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\bin\Debug\netcoreapp2.1\multi_table.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\bin\Debug\netcoreapp2.1\multi_table.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\bin\Debug\netcoreapp2.1\multi_table.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\bin\Debug\netcoreapp2.1\multi_table.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\multi_table\obj\Debug\netcoreapp2.1\multi_table.pdb
